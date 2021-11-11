@@ -15,5 +15,4 @@ Built using Godot 3.3.3
 None
 
 ## Created by 
-Jason Francis
-```
+Logan Hare
